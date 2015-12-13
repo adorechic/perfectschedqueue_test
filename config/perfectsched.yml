@@ -1,0 +1,5 @@
+development:
+  timezone: JST
+  type: rdb_compat
+  url: sqlite://db/perfectschedqueue.sqlite3
+  table: perfectschedqueue
