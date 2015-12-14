@@ -19,6 +19,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  perfectqueue
   perfectsched
   sqlite3
 
