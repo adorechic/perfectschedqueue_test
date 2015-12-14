@@ -1,4 +1,4 @@
 development:
   type: rdb_compat
-  url: sqlite://db/perfectschedqueue.sqlite3
+  url: mysql://root:@localhost:3306/perfectqueuetest
   table: perfectqueue

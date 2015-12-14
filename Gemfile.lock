@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     cron-spec (0.1.2)
+    mysql2 (0.4.2)
     perfectqueue (0.8.45)
       sequel (~> 3.48.0)
     perfectsched (0.8.10)
@@ -19,6 +20,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mysql2
   perfectqueue
   perfectsched
   sqlite3
